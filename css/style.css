@@ -358,6 +358,7 @@ footer .bottom .left .copyright-info {
         width: 200px;
         vertical-align: middle;
     }
+    input 
     .responsive-nav {
         background: var(--dark-black);
         display: flex;
